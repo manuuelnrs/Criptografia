@@ -1,0 +1,5 @@
+pip install -U pyinstaller
+pyinstaller RC4.py
+
+____________________
+Repositorio: https://github.com/manuuelnrs/RC4cipher
